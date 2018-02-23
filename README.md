@@ -7,6 +7,12 @@ library for ocr https://pypi.python.org/pypi/tesserocr
 
 making app using slk4 https://hameedullah.com/develop-your-first-android-application-in-python.html
 
+algorithm for summary https://thetokenizer.com/2013/04/28/build-your-own-summary-tool/
+
+https://www.youtube.com/watch?v=F7UKmK9eQLY ( Kiwi - make apk using python)
+
+To Download Kivy module : - https://kivy.org/docs/installation/installation-windows.html
+
 
 para 
  Preachers are common throughout most cultures. They can take the form of a Christian minister on a Sunday morning, or an Islamic Imam. A Muslim preacher in general is referred to as a dā‘ī, while one giving sermons on a Friday afternoon is called a khatib.
@@ -15,6 +21,4 @@ The sermon or homily has been an important part of Christian services since Earl
 
 In most denominations, modern preaching is kept below about 40 minutes, but historic preachers of all denominations could at times speak for well over an hour, sometimes for two or three hours,[1] and use techniques of rhetoric and theatre that are today somewhat out of fashion in mainline churches.
    
-https://www.youtube.com/watch?v=F7UKmK9eQLY ( Kiwi - make apk using python)
 
-To Download Kivy module : - https://kivy.org/docs/installation/installation-windows.html
