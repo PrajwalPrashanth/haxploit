@@ -1,5 +1,8 @@
 # haxploit
 http://python-for-android.readthedocs.io/en/latest/old_toolchain/example_helloworld/
+
+
+https://pypi.python.org/pypi/tesserocr
 para 
  Preachers are common throughout most cultures. They can take the form of a Christian minister on a Sunday morning, or an Islamic Imam. A Muslim preacher in general is referred to as a dā‘ī, while one giving sermons on a Friday afternoon is called a khatib.
 
