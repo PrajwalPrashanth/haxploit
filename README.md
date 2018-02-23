@@ -1,11 +1,11 @@
 # haxploit
-http://python-for-android.readthedocs.io/en/latest/old_toolchain/example_helloworld/
+example program http://python-for-android.readthedocs.io/en/latest/old_toolchain/example_helloworld/
 
 
-https://pypi.python.org/pypi/tesserocr
+library for ocr https://pypi.python.org/pypi/tesserocr
 
 
-https://hameedullah.com/develop-your-first-android-application-in-python.html
+making app using slk4 https://hameedullah.com/develop-your-first-android-application-in-python.html
 
 
 para 
