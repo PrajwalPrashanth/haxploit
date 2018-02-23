@@ -11,3 +11,6 @@ The sermon or homily has been an important part of Christian services since Earl
 In most denominations, modern preaching is kept below about 40 minutes, but historic preachers of all denominations could at times speak for well over an hour, sometimes for two or three hours,[1] and use techniques of rhetoric and theatre that are today somewhat out of fashion in mainline churches.
    
 https://www.youtube.com/watch?v=F7UKmK9eQLY ( Kiwi - make apk using python)
+
+
+To Download Kivy module : - https://kivy.org/docs/installation/installation-windows.html
