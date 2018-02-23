@@ -24,7 +24,7 @@ In most denominations, modern preaching is kept below about 40 minutes, but hist
 
 
 
-https://ocr.space/ocrapi
+https://ocr.space/ocrapi   ---  to use this ocr - api key :   a311ed074988957
 
 
 https://www.codelv.com/projects/enaml-native/docs/getting-started
