@@ -5,6 +5,7 @@ http://python-for-android.readthedocs.io/en/latest/old_toolchain/example_hellowo
 https://pypi.python.org/pypi/tesserocr
 
 
+https://hameedullah.com/develop-your-first-android-application-in-python.html
 
 
 para 
