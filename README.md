@@ -29,4 +29,7 @@ https://ocr.space/ocrapi   ---  to use this ocr - api key :   a311ed074988957
 
 https://www.codelv.com/projects/enaml-native/docs/getting-started
    
+   
+   
+   JSON to dictionary : -  https://linuxconfig.org/how-to-parse-data-from-json-into-python
 
